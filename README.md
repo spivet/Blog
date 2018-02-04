@@ -15,7 +15,9 @@
   4. [基于Vue和flask的前后端分离开发](https://github.com/Mcbai/Blog/issues/5) ----------------------------- 2017-12-28
   
   5. [CSSOM View Module 常用属性和方法记录](https://github.com/Mcbai/Blog/issues/6) ----------------------------- 2018-1-10
+  
+  6. [float 常见用法与问题](https://github.com/Mcbai/Blog/issues/7) ----------------------------- 2018-2-4
 
  ### 翻译
  
-  1. [【译】JavaScript ES6 最值得掌握的5个特性](https://github.com/Mcbai/Blog/issues/8) ----------------------------- 2018-1-26
+  1. [【译】JavaScript ES6 最值得掌握的5个特性](https://github.com/Mcbai/Blog/issues/8) ----------------------------- 2018-1-26
