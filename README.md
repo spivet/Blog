@@ -4,7 +4,7 @@
 
 > # 目录
 
- ### web基础
+ ### 原创
 
   1. [从输出网址按下回车到页面显示，都发生了写什么?](https://github.com/Mcbai/Blog/issues/1) ----------------------------- 2017-9-11
 
@@ -21,3 +21,4 @@
  ### 翻译
  
   1. [【译】JavaScript ES6 最值得掌握的5个特性](https://github.com/Mcbai/Blog/issues/8) ----------------------------- 2018-1-26
+  2. [【译】使用 CSS Flexbox 创建等高的价目表](https://github.com/Mcbai/Blog/issues/9) ----------------------------- 2018-2-7
