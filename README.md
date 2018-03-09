@@ -22,3 +22,4 @@
  
   1. [【译】JavaScript ES6 最值得掌握的5个特性](https://github.com/Mcbai/Blog/issues/8) ----------------------------- 2018-1-26
   2. [【译】使用 CSS Flexbox 创建等高的价目表](https://github.com/Mcbai/Blog/issues/9) ----------------------------- 2018-2-7
+  3. [【译】提交到不同URL的表单按钮](https://github.com/Mcbai/Blog/issues/10) ----------------------------- 2018-3-9
