@@ -19,6 +19,8 @@
   6. [float 常见用法与问题](https://github.com/Mcbai/Blog/issues/7) ----------------------------- 2018-2-4
 
   7. [你可能不清楚的 CSS 选择器用法（一）](https://github.com/Mcbai/Blog/issues/11) ----------------------------- 2018-3-20
+  
+  8. [你可能不清楚的 CSS 选择器用法（二）](https://github.com/Mcbai/Blog/issues/12) ----------------------------- 2018-4-10
 
  ### 翻译
  
