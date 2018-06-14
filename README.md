@@ -25,6 +25,8 @@
   9. [Vue表单类的父子组件数据传递](https://github.com/Mcbai/Blog/issues/13) ----------------------------- 2018-4-27
   
   10. [基于Vue组件的CSS命名规范](https://github.com/Mcbai/Blog/issues/14) ----------------------------- 2018-5-12
+  
+  11. [填坑——解决微信网页中刷新的问题](https://github.com/Mcbai/Blog/issues/15) ----------------------------- 2018-6-14
 
  ### 翻译
  
