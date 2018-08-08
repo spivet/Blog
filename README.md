@@ -27,6 +27,8 @@
   10. [基于Vue组件的CSS命名规范](https://github.com/Mcbai/Blog/issues/14) ----------------------------- 2018-5-12
   
   11. [填坑——解决微信网页中刷新的问题](https://github.com/Mcbai/Blog/issues/15) ----------------------------- 2018-6-14
+  
+  12. [Vue CLI 3.0 说明](https://github.com/Mcbai/Blog/issues/16) ----------------------------- 2018-8-8
 
  ### 翻译
  
