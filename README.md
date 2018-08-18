@@ -29,6 +29,8 @@
   11. [填坑——解决微信网页中刷新的问题](https://github.com/Mcbai/Blog/issues/15) ----------------------------- 2018-6-14
   
   12. [Vue CLI 3.0 说明](https://github.com/Mcbai/Blog/issues/16) ----------------------------- 2018-8-8
+  
+  13. [在 Electron 中使用 SQLite3](https://github.com/Mcbai/Blog/issues/17) ----------------------------- 2018-8-18
 
  ### 翻译
  
