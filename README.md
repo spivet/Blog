@@ -31,6 +31,8 @@
   12. [Vue CLI 3.0 说明](https://github.com/Mcbai/Blog/issues/16) ----------------------------- 2018-8-8
   
   13. [在 Electron 中使用 SQLite3](https://github.com/Mcbai/Blog/issues/17) ----------------------------- 2018-8-18
+  
+  14. [必须知道的 Promise 进阶点](https://github.com/Mcbai/Blog/issues/18) ----------------------------- 2018-8-26
 
  ### 翻译
  
