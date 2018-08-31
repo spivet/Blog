@@ -33,6 +33,8 @@
   13. [在 Electron 中使用 SQLite3](https://github.com/Mcbai/Blog/issues/17) ----------------------------- 2018-8-18
   
   14. [必须知道的 Promise 进阶点](https://github.com/Mcbai/Blog/issues/18) ----------------------------- 2018-8-26
+  
+  15. [规范 commit 与 changelog 生成](https://github.com/Mcbai/Blog/issues/19) ----------------------------- 2018-8-31
 
  ### 翻译
  
