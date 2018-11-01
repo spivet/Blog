@@ -35,6 +35,8 @@
   14. [必须知道的 Promise 进阶点](https://github.com/Mcbai/Blog/issues/18) ----------------------------- 2018-8-26
   
   15. [规范 commit 与 changelog 生成](https://github.com/Mcbai/Blog/issues/19) ----------------------------- 2018-8-31
+  
+  16. [前端自动化部署的几种不完全姿势](https://github.com/Mcbai/Blog/issues/20) ----------------------------- 2018-11-1
 
  ### 翻译
  
