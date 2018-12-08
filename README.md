@@ -37,7 +37,9 @@
   15. [规范 commit 与 changelog 生成](https://github.com/Mcbai/Blog/issues/19) ----------------------------- 2018-8-31
   
   16. [前端自动化部署的几种不完全姿势](https://github.com/Mcbai/Blog/issues/20) ----------------------------- 2018-11-1
-
+  
+  17. [基于七牛和 element-ui 的 vue 文件上传组件](https://github.com/Mcbai/Blog/issues/21) ----------------------------- 2018-11-1
+  
  ### 翻译
  
   1. [【译】JavaScript ES6 最值得掌握的5个特性](https://github.com/Mcbai/Blog/issues/8) ----------------------------- 2018-1-26
