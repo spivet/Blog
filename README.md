@@ -40,6 +40,8 @@
   
   17. [基于七牛和 element-ui 的 vue 文件上传组件](https://github.com/Mcbai/Blog/issues/21) ----------------------------- 2018-11-1
   
+  18. [使用 electron-updater 自动更新应用](https://github.com/Mcbai/Blog/issues/22) ----------------------------- 2018-12-16
+  
  ### 翻译
  
   1. [【译】JavaScript ES6 最值得掌握的5个特性](https://github.com/Mcbai/Blog/issues/8) ----------------------------- 2018-1-26
