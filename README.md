@@ -41,6 +41,8 @@
   17. [基于七牛和 element-ui 的 vue 文件上传组件](https://github.com/Mcbai/Blog/issues/21) ----------------------------- 2018-11-1
   
   18. [使用 electron-updater 自动更新应用](https://github.com/Mcbai/Blog/issues/22) ----------------------------- 2018-12-16
+
+  19. [用Node+puppeteer+wechaty每天定时给女（男）朋友发一张微信爱心提醒图](https://github.com/Mcbai/Blog/issues/24) ----------------------------- 2019-3-12
   
  ### 翻译
  
