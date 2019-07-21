@@ -44,6 +44,8 @@
 
   19. [用Node+puppeteer+wechaty每天定时给女（男）朋友发一张微信爱心提醒图](https://github.com/Mcbai/Blog/issues/24) ----------------------------- 2019-3-12
   
+  20. [在 vue 组件中查看 vuex 定义](https://github.com/Mcbai/Blog/issues/26) ----------------------------- 2019-4-20
+  
  ### 翻译
  
   1. [【译】JavaScript ES6 最值得掌握的5个特性](https://github.com/Mcbai/Blog/issues/8) ----------------------------- 2018-1-26
