@@ -32,7 +32,7 @@
   
   13. [在 Electron 中使用 SQLite3](https://github.com/Mcbai/Blog/issues/17) ----------------------------- 2018-8-18
   
-  14. [必须知道的 Promise 进阶点](https://github.com/Mcbai/Blog/issues/18) ----------------------------- 2018-8-26
+  14. [必须知道的 Promise 进阶点（一）](https://github.com/Mcbai/Blog/issues/18) ----------------------------- 2018-8-26
   
   15. [规范 commit 与 changelog 生成](https://github.com/Mcbai/Blog/issues/19) ----------------------------- 2018-8-31
   
@@ -45,6 +45,8 @@
   19. [用Node+puppeteer+wechaty每天定时给女（男）朋友发一张微信爱心提醒图](https://github.com/Mcbai/Blog/issues/24) ----------------------------- 2019-3-12
   
   20. [在 vue 组件中查看 vuex 定义](https://github.com/Mcbai/Blog/issues/26) ----------------------------- 2019-4-20
+  
+  14. [必须知道的 Promise 进阶点（二）](https://github.com/Mcbai/Blog/issues/23) ----------------------------- 2019-7-21
   
  ### 翻译
  
