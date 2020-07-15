@@ -46,7 +46,9 @@
   
   20. [在 vue 组件中查看 vuex 定义](https://github.com/Mcbai/Blog/issues/26) ----------------------------- 2019-4-20
   
-  14. [必须知道的 Promise 进阶点（二）](https://github.com/Mcbai/Blog/issues/23) ----------------------------- 2019-7-21
+  21. [必须知道的 Promise 进阶点（二）](https://github.com/Mcbai/Blog/issues/23) ----------------------------- 2019-7-21
+  
+  22. [CSS实现元素水平居右](https://github.com/Mcbai/Blog/issues/27) ----------------------------- 2020-7-15
   
  ### 翻译
  
