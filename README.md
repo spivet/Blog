@@ -50,6 +50,8 @@
   
   22. [CSS实现元素水平居右](https://github.com/Mcbai/Blog/issues/27) ----------------------------- 2020-7-15
   
+  23. [JavaScript 进阶 - 变量](https://github.com/Mcbai/Blog/issues/28) ----------------------------- 2020-7-25
+  
  ### 翻译
  
   1. [【译】JavaScript ES6 最值得掌握的5个特性](https://github.com/Mcbai/Blog/issues/8) ----------------------------- 2018-1-26
