@@ -52,6 +52,8 @@
   
   23. [JavaScript 进阶 - 变量](https://github.com/Mcbai/Blog/issues/28) ----------------------------- 2020-7-25
   
+  23. [JavaScript 进阶 - 基本类型数据](https://github.com/Mcbai/Blog/issues/29) ----------------------------- 2020-7-28
+  
  ### 翻译
  
   1. [【译】JavaScript ES6 最值得掌握的5个特性](https://github.com/Mcbai/Blog/issues/8) ----------------------------- 2018-1-26
